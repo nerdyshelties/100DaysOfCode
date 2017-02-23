@@ -1,0 +1,32 @@
+/* Start typing your CSS below!Switch to the CSS tab and write 3 CSS blocks – one each for your <h1>, <h2>, and <p> tags.
+
+Give each of the 3 CSS blocks a different font family and color.
+Make your headings bold and small caps.
+Give your paragraphs a line height of 30px and indent the text 10%.
+Use text-align, text-decoration, text-transform, and word-spacing at least once.
+Experiment and have fun! This is one of the few times you can have 4 different fonts, weights, colors, and styles on the same webpage! */
+h1 {
+       color: purple;
+      font-family: sans-serif; 
+      font-weight: bold;
+      font-variant: small-caps;
+      text-align: right;
+      text-decoration: underline;
+}
+
+h2 {
+       color: orange;
+      font-family: Georgia; 
+      font-weight: bold;
+      font-variant: small-caps;
+      word-spacing: 3px;
+      text-decoration: overline;
+}
+
+p {
+       color: brown;
+      font-family: serif; 
+      line-height: 30px;
+      Text-indent: 10%;
+      text-transform: lowercase;
+}

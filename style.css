@@ -1,14 +1,54 @@
 p {
         text-transform: uppercase;
         font-family: 'Sanchez', serif;
+        margin: 0px 0px 0px 0px;
+        padding: 0px 0px 0px 0px;
 }
-.manifesto {
-        width: 50%;
+.sleft {
+        width: 26%;
+        margin-left: 24%;
+        float: left;
 }
-.emphasis-1 {
-        font-size: 36px;
+.sright {
+        width: 26%;
+        margin-right: 24%;
 }
-.emphasis-2 {
-        font-size: 72px;
+.scenter {
+        width: 52%;
+        margin-right: 24%;
+        margin-left: 24%;
+}
+
+#s1 {
+        font-size: 40px;
+        font-weight: 800;
+        background: green;
+        float: left;
+        line-height: 100%;
+}
+#s4 {
+        font-size: 113px;
+        line-height: 85%;
         font-weight: 900;
+        background: yellow;
+        float: right;
+}
+#s2 {
+        font-size: 27px;
+        font-weight: 500;
+        line-height: 100%;
+        background: red;
+        float: left;
+}
+#s3 {
+        font-size: 29px;
+        line-height: 100%;
+        font-weight: 600;
+        background: purple;
+        float: left;
+}
+#s5 {
+        line-height: 100%;
+        background: blue;
+        clear: both;
 }

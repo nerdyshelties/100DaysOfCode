@@ -1,0 +1,14 @@
+p {
+        text-transform: uppercase;
+        font-family: 'Sanchez', serif;
+}
+.manifesto {
+        width: 50%;
+}
+.emphasis-1 {
+        font-size: 36px;
+}
+.emphasis-2 {
+        font-size: 72px;
+        font-weight: 900;
+}

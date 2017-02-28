@@ -3,7 +3,6 @@ p {
         font-family: 'Sanchez', serif;
         margin: 0px 0px 0px 0px;
         padding: 0px 0px 0px 0px;
-        overflow: auto;
         text-align: justify;
 }
 .sleft {
@@ -18,6 +17,12 @@ p {
         float: left;
         background: pink;
 }
+.sleft3 {
+        width: 30%;
+        margin-left: 24%;
+        float: left;
+        background: Cyan;
+}
 .sright {
         width: 26%;
         margin-right: 24%;
@@ -28,6 +33,12 @@ p {
         width: 24%;
         margin-right: 24%;
         background: orange;
+        float: right;
+}
+.sright3 {
+        width: 22%;
+        margin-right: 24%;
+        background: purple;
         float: right;
 }
 .scenter {
@@ -107,5 +118,25 @@ p {
         font-size: 28px;
         font-weight: 600;
         line-height: 90%;
+}
+.s15 {
+        font-size: 22px;
+        font-weight: 500;
+        line-height: 100%;
+}
+.s16 {
+        font-size: 22px;
+        font-weight: 600;
+        line-height: 100%;
+}
+.s17 {
+        font-size: 41px;
+        font-weight: 600;
+        line-height: 100%;
+}
+.s18 {
+        font-size: 32px;
+        font-weight: 700;
+        line-height: 100%;
 }
 

@@ -3,6 +3,8 @@ p {
         font-family: 'Sanchez', serif;
         margin: 0px 0px 0px 0px;
         padding: 0px 0px 0px 0px;
+        overflow: auto;
+        text-align: justify;
 }
 .sleft {
         width: 26%;
@@ -10,10 +12,22 @@ p {
         float: left;
         background: green;
 }
+.sleft2 {
+        width: 28%;
+        margin-left: 24%;
+        float: left;
+        background: pink;
+}
 .sright {
         width: 26%;
         margin-right: 24%;
         background: red;
+        float: right;
+}
+.sright2 {
+        width: 24%;
+        margin-right: 24%;
+        background: orange;
         float: right;
 }
 .scenter {
@@ -55,8 +69,43 @@ p {
         line-height: 100%;
 }
 .s7 {
+        font-size: 21px;
+        font-weight: 500;
+        line-height: 100%;
+}
+.s8 {
         font-size: 20px;
+        font-weight: 500;
+        line-height: 100%;
+}
+.s9 {
+        font-size: 34px;
         font-weight: 600;
         line-height: 100%;
+}
+.s10 {
+        font-size: 26px;
+        font-weight: 500;
+        line-height: 90%;
+}
+.s11 {
+        font-size: 39px;
+        font-weight: 900;
+        line-height: 90%;
+}
+.s12 {
+        font-size: 16px;
+        font-weight: 300;
+        line-height: 30%;
+}
+.s13 {
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 30%;
+}
+.s14 {
+        font-size: 28px;
+        font-weight: 600;
+        line-height: 90%;
 }
 

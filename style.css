@@ -9,36 +9,40 @@ p {
         width: 26%;
         margin-left: 24%;
         float: left;
-        background: green;
+}
+.sleft-1 {
+        width: 24%;
+        margin-left: 24%;
+        float: left;
 }
 .sleft2 {
         width: 28%;
         margin-left: 24%;
         float: left;
-        background: pink;
 }
 .sleft3 {
         width: 30%;
         margin-left: 24%;
         float: left;
-        background: Cyan;
 }
 .sright {
         width: 26%;
         margin-right: 24%;
-        background: red;
+        float: right;
+}
+.sright-1 {
+        width: 28%;
+        margin-right: 24%;
         float: right;
 }
 .sright2 {
         width: 24%;
         margin-right: 24%;
-        background: orange;
         float: right;
 }
 .sright3 {
         width: 22%;
         margin-right: 24%;
-        background: purple;
         float: right;
 }
 .scenter {
@@ -46,7 +50,6 @@ p {
         margin-right: 24%;
         margin-left: 24%;
         clear: both;
-        background: yellow;
 }
 
 .s1 {
@@ -136,7 +139,16 @@ p {
 }
 .s18 {
         font-size: 32px;
-        font-weight: 700;
+        font-weight: 900;
         line-height: 100%;
 }
-
+.s19 {
+        font-size: 75px;
+        font-weight: 900;
+        line-height: 85%;
+}
+.s20 {
+        font-size: 52px;
+        font-weight: 800;
+        line-height: 100%;
+}
